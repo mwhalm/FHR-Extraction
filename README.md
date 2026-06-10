@@ -2,4 +2,4 @@
 
 Requires numpy, pandas, matplotlib, and scipy.
 
-It will show a plot for each PPG and save it. You can then close it and it will process the next PPG.
+It will show a plot for each PPG and save it. It prints the RMSE and MAE for each detector and the combined signal. You can then close graph and it will process the next PPG.
